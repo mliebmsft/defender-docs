@@ -20,7 +20,7 @@ ms.date: 8/21/2023
 
 # Set up steps for the Standard or Strict preset security policies in Microsoft Defender for Office 365
 
-Does Microsoft Defender for Office 365 gave you a way to apply security policies that it would then maintain?
+Does Microsoft Defender for Office 365 give you a way to apply security policies that it would then maintain?
 
 Did you know that when a best practice for a security control changes due to the evolving threat landscape, or as new controls are added, Microsoft *automatically* updates security control settings for users assigned to a *Standard* or *Strict* preset security policy?
 
